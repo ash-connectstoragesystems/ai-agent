@@ -1,0 +1,67 @@
+[
+  {
+    "action": "Test action from dashboard",
+    "score": 0
+  },
+  {
+    "action": "Backup system",
+    "score": 0
+  },
+  {
+    "action": "Send welcome message to new user",
+    "score": 0
+  },
+  {
+    "action": "Check system logs",
+    "score": 0
+  },
+  {
+    "action": "Backup database",
+    "score": 0
+  },
+  {
+    "action": "Generate weekly report",
+    "score": 0
+  },
+  {
+    "action": "Test auto Telegram message",
+    "score": 0
+  },
+  {
+    "action": "Test auto Telegram message new",
+    "score": 0
+  },
+  {
+    "action": "testing?",
+    "score": 0
+  },
+  {
+    "action": "research anything",
+    "score": 0
+  },
+  {
+    "action": "tell about music",
+    "score": 0
+  },
+  {
+    "action": "Backup database",
+    "score": 10
+  },
+  {
+    "action": "Generate weekly report",
+    "score": 9
+  },
+  {
+    "action": "Send welcome email",
+    "score": 4
+  },
+  {
+    "action": "Check system logs",
+    "score": 3
+  },
+  {
+    "action": "testing 12",
+    "score": 0
+  },
+  "Generate weekly report"
+]
